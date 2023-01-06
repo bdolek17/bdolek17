@@ -1,7 +1,10 @@
 
 ![MasterHead](https://contentstatic.timesjobs.com/img/75448202/Master.jpg)
 <h1 align="center">Hi 👋, I'm Angel B. Sentuna</h1>
-<h3 align="center">Software Test Engineer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I'm  a Software Test Engineer!; &font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bdolek17&label=Profile%20views&color=0e75b6&style=flat" alt="bdolek17" /> </p>
